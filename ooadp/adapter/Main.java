@@ -14,6 +14,6 @@ public class Main {
 
         double tax= d.calculate(a);
         System.out.println(tax);
-
+        sc.close();
     }
 }
