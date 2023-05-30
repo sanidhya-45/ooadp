@@ -1,6 +1,6 @@
 # ooadp
 This repository contains 6th sem ISE, OOADP lab Questions
-Question No. 7 (Abstrcat Factory) and Question No. 8 (decorator) are removed.
+Abstract Factory and Decorator are removed.
 
 PART A
 
